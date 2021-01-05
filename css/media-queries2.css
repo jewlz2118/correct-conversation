@@ -1,0 +1,526 @@
+@media only screen and (max-width:2000px){
+
+		ul.responsive{
+		display: none;
+	}
+	.hands{
+		padding-left: 0;
+	}
+}
+
+@media only screen and (max-width:1169px){
+
+	.container{
+		margin: 0 10%
+	}
+	.hero-img1{
+		width: 120px;
+	}
+
+	.hero-img{
+		width: 20%;
+	}
+
+
+	.group{
+		width: 90%;
+	}
+
+	.faq{
+		height: 900px;
+	}
+
+
+	textarea{
+		max-width: 350px;
+	}
+
+	.footer-link{
+		display: inline-block;
+	}
+
+}
+
+@media only screen and (max-width:1124px){
+
+	h1{
+		font-size: 300%;
+	}
+
+	.hero-img{
+		width:21%;
+	}
+
+	.hero-img1{
+		width:110px;
+		padding-top: 30px
+	}
+
+	.hands{
+		width: 120%;
+	}
+
+	.jason{
+		height: 1020px;
+	}
+}
+
+@media only screen and (max-width:969px){
+
+	h1{
+		font-size: 270%;
+	}
+
+	h3{
+		font-size: 140%
+	}
+
+	.logo{
+		font-size: 110%;
+		margin-top: 15px;
+	}
+
+	.main-nav{
+		font-size: 90%;
+		margin-top: 18px
+	}
+
+	.man2{
+		width: 95%;
+	}
+
+	.footer-link{
+		font-size: 87%;
+		padding-top: 5px;
+		letter-spacing: 0.2;
+	}
+
+	.jason{
+		height: 1100px;
+	}
+}
+
+@media only screen and (max-width:890px){
+
+	.hero-img1{
+		width: 100px
+	}
+
+	nav .logo{
+		margin-top: -38px;
+	}
+
+	footer.logo{
+		margin-top: 215px;
+	}
+
+	ul.main-nav{
+		display: none;
+	}
+
+	 ul.responsive {
+   overflow: hidden;
+   display: block;
+   height: 0px;
+   text-align: center;
+   width: 100%;
+}
+
+ul.responsive.open{
+   overflow: visible;
+   height:250px;
+   right: 0px;
+   margin-top: 53px;
+   margin-left: 0px;
+   margin-right: 0px;
+}
+
+
+	li{
+		display:block;
+		float:none;
+		width: 100%;
+		margin: 0;
+		padding: 10px;
+	}
+
+	.burger-nav{
+		display: block;
+		height: 50px;
+		width: 100%;
+		background: url(../icons/hamburger_03_03.png) no-repeat 90% center;
+	 	cursor: pointer;
+		}
+
+
+		.home{
+		height: 650px
+	}
+	.faq{
+		height: 920px
+	}
+
+	textarea{
+		max-width: 300px
+	}
+
+	.footer-link{
+		display: none;
+	}
+
+	logo.footer-logo{
+		display: none;
+	}
+
+	.jason{
+		height: 1230px;
+	}
+	.jas{
+		width: 80%;
+		padding-left: 50px;
+		z-index: -1;
+ }
+
+}
+
+@media only screen and (max-width:829px){
+
+	.container{
+		margin: 0 7%;
+	}
+	.hero-img{
+		padding: 0 0;
+		width: 22%;
+	}
+
+	.hero-img1{
+		padding-bottom: 120px;
+		}
+
+	.group{
+		padding-top: 80px;
+	}
+
+	.home{
+		height: 650px
+	}
+
+	.faq{
+		height: 980px
+	}
+
+	.man2{
+		padding-left: 60px;
+		padding-top: 200px;
+	}
+
+	.location{
+		height: 500px;
+		background-size: 750px
+	}
+
+	form{
+		margin-left: 30px;
+	}
+
+	textarea{
+		max-width: 270px;
+	}
+}
+
+@media only screen and (max-width:698px){
+
+	.headings {
+		padding-top: 30%;
+	}
+
+	.col-left{
+	 display: block;
+		width: 100%;
+		float: left;
+	}
+
+	.col-right{
+	 display: block;
+		width: 100%;
+		float: left;
+	}
+
+	.characters{
+		display: none;
+	}
+
+	h1{
+		padding-top: 170px;
+	}
+
+	h2{
+		font-size: 120%
+	}
+
+	h3{
+		font-size: 120%
+	}
+
+	.group{
+		width: 60%;
+		padding: 10px 17%
+	}
+
+	.home{
+		height: 750px
+	}
+
+	.faq{
+		height: 1150px
+	}
+
+	.man2{
+		width: 60%;
+		padding-left: 100px;
+		padding-top: 0px;
+	}
+
+	.location{
+		height: 420px;
+		background-size: 550px;
+		padding-bottom: 200px
+
+		}
+
+	.overlay{
+		background-color: rgba(185, 184, 184, 0.1);
+		height: 650px
+	}
+
+	.pointer{
+		width: 100px;
+		padding: 20px 200px 70px 200px;
+
+	}
+
+	.prices{
+		height: 750px;
+	}
+
+	.hands{
+		width: 100%;
+	}
+
+	form{
+		padding-top: 50px;
+		margin-left: 50px
+
+	}
+	textarea{
+		max-width: 400px
+	}
+
+	.bookings{
+		height: 900px
+	}
+
+	.submit{
+		margin: 30px 20% 0px auto;
+	}
+
+	.jas{
+		width: 40%;
+		z-index: -1;
+		padding-top: 70px;
+		padding-left: 60px;
+		margin-left: 100px;
+	}
+
+}
+
+@media only screen and (max-width:539px){
+
+	.container{
+		margin: 3 0px;
+	}
+
+	h1{
+		font-size: 250%
+	}
+
+	.logo{
+		font-size: 70%;
+		padding-top: 5px;
+	}
+
+	.home{
+		height: 800px;
+	}
+
+	.faq{
+		height: 1220px;
+	}
+
+	.man2{
+		padding-left: 100px;
+		padding-top: 30px
+	}
+
+	.pointer{
+		padding-left: 140px;
+		margin-left: auto;
+			margin-right: auto;
+	}
+
+	input{
+		width: 320px;
+
+	}
+
+	form{
+		margin-left: 10%;
+		margin-right: auto;
+	}
+
+	textarea{
+		max-width: 320px;
+	}
+
+	.submit{
+		margin: auto 70px;
+		}
+
+	.bookings{
+		height: 950px
+	}
+
+	.jas{
+		padding-top: 10px;
+		margin-top: 10px;
+	}
+}
+
+@media only screen and (max-width:480px){
+
+	.man2{
+		width: 80%;
+		padding-left: 50px;
+	}
+
+	.hands{
+		padding-top: 30px;
+	}
+
+	.jason{
+		height: 1290px;
+	}
+
+	.jas{
+		padding-left: 20px;
+	}
+}
+
+@media only screen and (max-width:360px){
+
+	h1{
+		font-size: 220%;
+	}
+
+	.man2{
+		padding-left: 35px;
+		padding-top: 5px;
+	}
+
+	.location{
+		padding-bottom: 250px;
+	}
+
+	.overlay{
+		height: 700px;
+	}
+
+	form{
+		margin: 0px auto;
+	}
+
+	input{
+		width: 270px;
+	}
+
+	textarea{
+		max-width: 270px;
+	}
+
+	.submit{
+		margin-left: 20%;
+	}
+
+}
+
+@media only screen and (max-width:320px){
+
+	h1{
+		font-size: 200%
+	}
+
+	h2{
+		font-size: 100%
+	}
+
+	.logo{
+		font-size: 30%;
+	}
+
+	.home{
+		height: 850px;
+	}
+
+	.faq{
+		height: 1320px
+	}
+
+	.man2{
+		padding-left: 30px
+	}
+
+	.pointer{
+		padding-bottom: 80px;
+		padding-right: 0px;
+		padding-top: 0px;
+		padding-left: 90px;
+	}
+
+	.location{
+  margin-bottom: 50px
+	}
+
+	.overlay{
+		height: 720px
+	}
+
+	.bookings{
+		height: 1000px;
+	}
+
+	form{
+		margin: 0px auto;
+	}
+
+	input{
+		width: 250px;
+	}
+
+	textarea{
+		max-width: 250px;
+	}
+
+	.submit{
+		margin-left: 10%;
+	}
+
+	.jason{
+		height: 1600px;
+	}
+
+	.jas{
+		margin: 20px;
+		width: 70%;
+	}
+
+}
